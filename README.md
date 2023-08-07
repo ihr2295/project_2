@@ -59,12 +59,12 @@ In case you want to try an extended version, here are additional rules:
 - Spock beats Scissors
 - Scissors beats Lizard
 - Paper beats Spock
-- Rock beats Scissors
+- Rock Beats Scissors
 - Lizard beats Paper
 - Spock beats Rock
 
 
-Not sure what Rock, Paper, Scissors, Lizard, Spock is, watch the series The Big Bang Theory Season 5, Episode 17, 8 minutes, 34 seconds (Available in Amazone Prime videos) or google it obviously i can not make it more clear :-)  
+Not sure what Rock, Paper, Scissors, Lizard, Spock is, watch the series The Big Bang Theory Season 5, Episode 17, 8 minutes, 34 seconds (Available in Amazone Prime videos) or google it obviously I can not make it more clear :-)  
 
 ## Technologies Used
 
@@ -82,7 +82,7 @@ Not sure what Rock, Paper, Scissors, Lizard, Spock is, watch the series The Big 
 - JPEG
 - Photoshop: Used to create pictures, resize images, and edit photos for the website.
 - Adobe Illustrator: Used to create vectors, icons, and edit photos for the website.
-- Free pic premium for some premium picture of course licensed 
+- Free pic premium for some premium pictures of course licensed 
 
 ## Testing
 
@@ -100,6 +100,8 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
+
+
 You can host your site using one of these solutions or any of our other trusted providers. I recommend [Namecheap](https://www.namecheap.com/).
 
 ### Source Code in GitHub
