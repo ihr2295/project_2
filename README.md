@@ -6,7 +6,7 @@ View the live project [here](#) (it was uploaded to my personal hosting).
 
 This repository contains the code for the IRHA A Rock, Paper, Scissors Game, where you can play the classic Game of Rock, Paper, Scissor Game against Computer or System.
 
-![Picture](#.jpg)
+![Picture]((https://hasibullah.com/irha/img/asd.jpg))
 
 ## User Experience (UX)
 
