@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock, Paper, Scissors Game</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+  <a href="#" class="logo" target="_blank">
+		<img src="img/logo.png" alt="logo">
+</a><h1>IRHA A Rock, Paper, Scissors</h1>
+  <div class="scoreboard">
+    <div class="player-score">Player: 0</div>
+    <div class="computer-score">Computer: 0</div>
+  </div>
+  <div class="choices">
+    <div class="choice" id="rock">
+      <i class="fas fa-hand-rock"></i>
+    </div>
+    <div class="choice" id="paper">
+      <i class="fas fa-hand-paper"></i>
+    </div>
+    <div class="choice" id="scissors">
+      <i class="fas fa-hand-scissors"></i>
+    </div>
+  </div>
+  <div class="result" id="result">
+    <p>Choose your weapon!</p>
+  </div>
+  <div id="computer-choice"></div>
+  <div class="timer" id="timer">
+    <p>Time left: <span id="countdown">10</span>s</p>
+  </div>
+  <button class="play-again" id="play-again">Play Again</button>
+
+  		<ul id="down_links">
+
+<li data-link="#" class="popup-trigger" data-modal-target="how-modal">
+  <div class="image-wrapper">
+	<img src="img/how.png" alt="how?">
+</div>
+	<span>How to Play?</span>
+</li>
+
+			<li data-link="#" class="popup-trigger" data-modal-target="history">
+        <div class="image-wrapper">
+				<img src="img/history.png" alt="History">
+        <span>History </span>
+      </div>
+				
+			</li>
+			<li data-link="#" class="popup-trigger" data-modal-target="contact">
+        <div class="image-wrapper">
+				<img src="img/contact.png" alt="contact">
+				<span>contact Us</span>
+      </div>
+			</li>
+
+		</ul>
+
+<!-- Modal code -->
+<!-- Modal code for how? -->
+<div class="modal" id="how-modal">
+  <div class="modal-content">
+    <button class="modal-close">&times;</button>
+      <h2>How to Play?</h2>
+      <P>A classic two-person game. Players start each round by saying, “rock, paper, scissors, 
+        shoot!” On “shoot,” each player holds out their fist for rock, flat hand for paper, 
+        or their index and middle finger for scissors.
+         Rock crushes scissors, scissors cut paper, and paper covers rock. See who wins each round!</P>
+         <img src="img/image-rules.png" alt="How to Play">
+  </div>
+</div>
+
+
+<!-- Modal code for history -->
+<div class="modal" id="history">
+  <div class="modal-content">
+    <button class="modal-close">&times;</button>
+      <h2>History of Rock Paper Scissors </h2>
+      <P>Rock Paper Scissors is considered the oldest hand game in the world. In fact, the game dates 
+        all the way back to the Chinese Han Dynasty. This era began in 206 BC and ended in 220 AD. 
+        There are also accounts of this game in Japanese history. The earliest versions of this game consisted of a slug, 
+        snake, and frog. Rocks, papers, and scissors were used in a later version of the game developed in the 17th century. 
+        It wasn’t until the 1920’s that the popular Asian hand game made its way to Great Britain. 
+        In 1932, an article in the New York Times described the rules of Rock Paper Scissors.</P>
+         <img src="img/history.jpg" alt="history">
+  </div>
+</div>
+
+
+<!-- Modal for "Contact Us" -->
+<div class="modal" id="contact">
+  <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <h2>Contact Us</h2>
+      <form id="contact-form">
+          <div class="form-group">
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required>
+          </div>
+          
+          <div class="form-group">
+              <label for="email">Email:</label>
+              <input type="email" id="email" name="email" required>
+          </div>
+          
+          <div class="form-group">
+              <label for="message">Message:</label>
+              <textarea id="message" name="message" rows="4" required></textarea>
+          </div>
+          
+          <div class="form-group">
+              <button type="submit">Send</button>
+          </div>
+      </form>
+  </div>
+</div>
+
+<!-- Modal Code -->
+
+
+
+
+
+
+
+  <div> 
+    <footer>
+    <small>
+      Copyright © 2023 Football History Archives. All Rights Reserved.
+    </small>
+  </footer>
+</div>
+  <script src="js/source.js"></script>
+</body>
+</html>
