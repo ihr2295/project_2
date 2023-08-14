@@ -5,9 +5,9 @@
   <img src="https://hasibullah.com/as/logo4.jpg" alt="Picture">
 </p>
 
-**1. Project by Hasibullah Rahmani**
+**Project by: Hasibullah Rahmani**
 
-View the live project [here](#) (it was uploaded to my personal hosting).
+View the live project [here](hasibullah.com/irha) (it was uploaded to my personal hosting).
 
 This repository contains the code for the IRHA A Rock, Paper, Scissors Game, where you can play the classic Game of Rock, Paper, Scissor Game against Computer or System.
 
@@ -52,24 +52,6 @@ The large images on the website are designed to be striking and catch the user's
 - Paper beats Rock
 - Rock beats Scissors
 - Scissors beats Paper
-
-## Bonus Rules
-
-In case you want to try an extended version, here are additional rules:
-
-- Scissors beats Paper
-- Paper beats Rock
-- Rock beats Lizard
-- Lizard beats Spock
-- Spock beats Scissors
-- Scissors beats Lizard
-- Paper beats Spock
-- Rock Beats Scissors
-- Lizard beats Paper
-- Spock beats Rock
-
-
-Not sure what Rock, Paper, Scissors, Lizard, Spock is, watch the series The Big Bang Theory Season 5, Episode 17, 8 minutes, 34 seconds (Available in Amazone Prime videos) or google it obviously I can not make it more clear :-)  
 
 ## Technologies Used
 
