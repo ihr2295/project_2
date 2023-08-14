@@ -1,3 +1,4 @@
+![Picture](https://hasibullah.com/as/logo.jpg)
 # IRHA A Rock, Paper, Scissors Game
 
 **1. Project by Hasibullah Rahmani**
