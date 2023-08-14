@@ -29,9 +29,9 @@ This repository contains the code for the IRHA A Rock, Paper, Scissors Game, whe
 
 ### Colour Scheme
 
-The three primary colors used for the Serrano Restaurant are:
+The three primary colors used for the website are:
+- Blue: #7280ff
 - Yello: #fbaf32
-- White: #F4F9FF
 - Red: #CD212A
 
 ### Typography
