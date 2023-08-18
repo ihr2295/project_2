@@ -7,11 +7,11 @@
 
 **Project by: Hasibullah Rahmani**
 
-View the live project [here](hasibullah.com/irha) (it was uploaded to my personal hosting).
+View the live project [here](https://hasibullah.com/irha) or by copy & Pasting https://hasibullah.com/irha/ (it was uploaded to my personal hosting).
 
 This repository contains the code for the IRHA A Rock, Paper, Scissors Game, where you can play the classic Game of Rock, Paper, Scissor Game against Computer or System.
 
-![Picture](https://hasibullah.com/as/asd.PNG)
+![Picture](https://hasibullah.com/as/screenshot.PNG)
 
 ## User Experience (UX)
 
@@ -65,7 +65,7 @@ The large images on the website are designed to be striking and catch the user's
 
 - Google Fonts: Imported the font into the style.css file, used throughout the project.
 - Font Awesome: Used for icons throughout the website.
-- SVG
+- WEBP
 - JPEG
 - Photoshop: Used to create pictures, resize images, and edit photos for the website.
 - Adobe Illustrator: Used to create vectors, icons, and edit photos for the website.
@@ -76,9 +76,20 @@ The large images on the website are designed to be striking and catch the user's
 The website was tested on Google Chrome, Internet Explorer, Microsoft Edge, and Safari browsers. It was also viewed on various devices such as desktop screens (3840 x 2160 pixels), laptops, iPhone 14, and Samsung smartphones. Feedback was gathered from friends, family, mentors, and colleagues to identify bugs and improve the user experience.
 
 ## Known Bugs
-
-- On some mobile devices, the images pushes the screen size beyond other content, resulting in a white gap to the right of the footer and navigation bar.
 - On Microsoft Edge and Internet Explorer browsers, hovering over links in the navbar pushes them upwards.
+
+## Validator Testing
+- HTML
+   - No errors were returned when passing through the official W3C validator
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator
+- JS
+- Accessibility
+  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+
+<p align="center">
+  <img src="https://hasibullah.com/as/test.PNG" alt="Picture">
+</p>
 
 ## Deployment
 ### Deploying your project
@@ -99,7 +110,7 @@ To view the IRHA A Rock, Paper, Scissors Game website locally, follow these step
 
 ### Available Link in my Personal Host
 
-Link: [#](#)
+Link: [click here](https://hasibullah.com/irha/)
 
 ## Credits
 
@@ -108,4 +119,3 @@ Link: [#](#)
 ## Acknowledgments
 
 - My mentor for continuous helpful feedback.
-- Tutor support at Code Institute.
